@@ -7,9 +7,14 @@ Features
 - Translate leetspeak back to regular text
 
 Usage
-1. Run the program using Python (e.g., python3 text-leet.py or python3 leet-text.py)
-2. Enter a string to translate to leetspeak or leetspeak to text
-3. Type 'exit!' to quit the program
+1. Clone the repository: git clone https://github.com/hiddendestroyer1945/leet.git
+2. Navigate to the repository directory: cd leet
+3. Run the program using Python: python3 text-leet.py (assuming the script is named text-leet.py)
+4. Enter a string to translate text to leetspeak
+5. Type 'exit!' to quit the program
+6. Run the program using Python: python3 leet-text.py (assuming the script is named leet-text.py)
+7. Enter a string to translate leetspeak to text
+5. Type 'exit!' to quit the program
 
 Mappings
 The program uses the following mappings:
