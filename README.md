@@ -29,12 +29,12 @@ Requirements
 - git
 - python3-pip
 
-Installation
+Installation & Usage
 - sudo apt install python3 python3-pip git
 - git clone leet.git
 - cd /leet/
 - python3 leet-text.py
-- python3 leet-text.py
+- python3 text-leet.py
 
 Contributing
 Feel free to modify and improve the program. Pull requests are welcome!
