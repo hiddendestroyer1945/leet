@@ -49,4 +49,7 @@ Contributing
 Feel free to modify and improve the program. Pull requests are welcome!
 
 License
-This program is released under the MIT License.
+This program is released under the MIT License (if applicable). If not, you can specify the license or terms of use.
+
+Author
+https://github.com/hiddendestroyer1945
