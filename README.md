@@ -22,7 +22,7 @@ Leetspeak to Text
 The reverse mappings are used to translate leetspeak back to regular text.
 
 Supported
-- debian based linux
+- Debian based linux
 
 Requirements
 - Python 3.x
@@ -31,14 +31,14 @@ Requirements
 
 Installation
 Clone the repository using git clone [https://github.com/hiddendestroyer1945/leet.git](https://github.com/hiddendestroyer1945/leet.git`)
-Run the script using(leet to text transilation) python leet-text.py
-Run the script using(text to leet transilation) python text-leet.py
+Run the script using(leet to text transilation) python3 leet-text.py
+Run the script using(text to leet transilation) python3 text-leet.py
 
 Example Use Cases
-Translate a sentence: python text-leet.py "Hello World"
-Translate a paragraph: python text-leet.py "This is a test paragraph."
-Translate a leet sentence: python leet-text.py "#4110uu uu021cl"
-Translate a leet paragraph: python leet-text.py "This is a test paragraph."
+Translate a sentence: python text-leet.py, Then after enter the text. After the translation, enter the 'exit!' to quit this program.
+Translate a paragraph: python text-leet.py, Then after enter the paragraph. After the translation, enter the 'exit!' to quit this program.
+Translate a leet sentence: python leet-text.py, Then after enter the leet text. After the translation, enter the 'exit!' to quit this program.
+Translate a leet paragraph: python leet-text.py, Then after enter the leet paragraph. After the translation, enter the 'exit!' to quit this program.
 
 Contributing
 Feel free to modify and improve the program. Pull requests are welcome!
