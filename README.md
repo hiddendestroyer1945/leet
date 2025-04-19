@@ -7,7 +7,7 @@ Features
 - Translate leetspeak back to regular text
 
 Usage
-1. Run the program using Python (e.g., python leetspeak_translator.py)
+1. Run the program using Python (e.g., python3 text-leet.py or python3 leet-text.py)
 2. Enter a string to translate to leetspeak or leetspeak to text
 3. Type 'exit!' to quit the program
 
