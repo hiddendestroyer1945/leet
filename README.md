@@ -29,7 +29,7 @@ Requirements
 - git
 - python3-pip
 
-  Installatopn
+Installation
 - sudo apt install python3 python3-pip git
 - git clone leet.git
 - cd /leet/
