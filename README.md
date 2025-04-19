@@ -29,12 +29,16 @@ Requirements
 - git
 - python3-pip
 
-Installation & Usage
-- sudo apt install python3 python3-pip git
-- git clone leet.git
-- cd /leet/
-- python3 leet-text.py
-- python3 text-leet.py
+Installation
+Clone the repository using git clone [https://github.com/hiddendestroyer1945/leet.git](https://github.com/hiddendestroyer1945/leet.git`)
+Run the script using(leet to text transilation) python leet-text.py
+Run the script using(text to leet transilation) python text-leet.py
+
+Example Use Cases
+Translate a sentence: python text-leet.py "Hello World"
+Translate a paragraph: python text-leet.py "This is a test paragraph."
+Translate a leet sentence: python leet-text.py "#4110uu uu021cl"
+Translate a leet paragraph: python leet-text.py "This is a test paragraph."
 
 Contributing
 Feel free to modify and improve the program. Pull requests are welcome!
