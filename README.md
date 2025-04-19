@@ -35,10 +35,10 @@ Run the script using(leet to text transilation) python3 leet-text.py
 Run the script using(text to leet transilation) python3 text-leet.py
 
 Example Use Cases
-Translate a sentence: python text-leet.py, Then after enter the text. After the translation, enter the 'exit!' to quit this program.
-Translate a paragraph: python text-leet.py, Then after enter the paragraph. After the translation, enter the 'exit!' to quit this program.
-Translate a leet sentence: python leet-text.py, Then after enter the leet text. After the translation, enter the 'exit!' to quit this program.
-Translate a leet paragraph: python leet-text.py, Then after enter the leet paragraph. After the translation, enter the 'exit!' to quit this program.
+Translate a sentence: python3 text-leet.py, Then after enter the text. After the translation, enter the 'exit!' to quit this program.
+Translate a paragraph: python3 text-leet.py, Then after enter the paragraph. After the translation, enter the 'exit!' to quit this program.
+Translate a leet sentence: python3 leet-text.py, Then after enter the leet text. After the translation, enter the 'exit!' to quit this program.
+Translate a leet paragraph: python3 leet-text.py, Then after enter the leet paragraph. After the translation, enter the 'exit!' to quit this program.
 
 Contributing
 Feel free to modify and improve the program. Pull requests are welcome!
